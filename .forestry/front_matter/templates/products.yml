@@ -43,3 +43,5 @@ fields:
     labelField: 
   label: Features
   description: What feaures are in here?
+pages:
+- content/products/content/products/a.md
