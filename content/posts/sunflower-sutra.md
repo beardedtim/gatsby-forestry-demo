@@ -40,3 +40,9 @@ and those blear thoughts of death and dusty loveless eyes and ends and withered 
 entangled in your mummied roots–and you standing before me in the sunset, all your glory in your form!
 
 A perfect beauty of a sunflower! a perfect excellent lovely sunflower existence! a sweet natural eye to the new hip moon, woke up alive and excited grasping in the sunset shadow sunrise golden monthly breeze!
+
+I can even add stuff and it will be saved to the freaking github repo.
+
+THIS IS THE FREAKING FUTUREEEE!!!!
+
+![they are better than me](/content/images/sharon-mccutcheon-Th_WZMUPnO4-unsplash.jpg "I CAN EVEN DO THIS?!")
