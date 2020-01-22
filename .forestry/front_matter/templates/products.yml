@@ -1,4 +1,45 @@
 ---
 label: Products
 hide_body: false
-fields: []
+fields:
+- name: product_name
+  type: text
+  config:
+    required: false
+  label: Product Name
+  description: What is the name of the product to be sold?
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
+  description: Tell me about this product? What are some of its core features? Why
+    should I buy it?
+- name: main_product_logo
+  type: file
+  config:
+    maxSize: 250
+  label: main Product Logo
+  description: What is the main image we want to display when we show this product?
+- name: supporting_images
+  type: image_gallery
+  config: {}
+  label: Supporting Images
+  description: Any supporting images or files?
+- name: features
+  type: field_group_list
+  fields:
+  - name: feature
+    type: tag_list
+    default: []
+    label: Feature
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Features
+  description: What feaures are in here?
